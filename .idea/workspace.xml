@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e4bbdea1-02e1-4e83-b1da-806b9f6e17b0" name="Default Changelist" comment="" />
+    <list default="true" id="e4bbdea1-02e1-4e83-b1da-806b9f6e17b0" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -15,6 +18,11 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1jhDsCpELmOrqlsYDt3vuguUOl9" />
@@ -49,18 +57,54 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1604247633310</updated>
-      <workItem from="1604247634341" duration="15525000" />
+      <workItem from="1604247634341" duration="20306000" />
     </task>
+    <task id="LOCAL-00001" summary="первый комит">
+      <created>1604694827512</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1604694827512</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Добавил &quot;Политика в отношении обработки персональных данных&quot;">
+      <created>1604738515628</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1604738515628</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="первый комит" />
+    <MESSAGE value="Добавил &quot;Политика в отношении обработки персональных данных&quot;" />
+    <option name="LAST_COMMIT_MESSAGE" value="Добавил &quot;Политика в отношении обработки персональных данных&quot;" />
+  </component>
   <component name="WindowStateProjectService">
-    <state x="584" y="354" key="Github.ShareDialog" timestamp="1604694623881">
+    <state x="451" y="281" key="#Notifications" timestamp="1604694956840">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="584" y="354" key="Github.ShareDialog/0.0.1440.900@0.0.1440.900" timestamp="1604694623881" />
+    <state x="451" y="281" key="#Notifications/0.0.1440.900@0.0.1440.900" timestamp="1604694956840" />
+    <state x="307" y="23" width="825" height="825" key="CommitChangelistDialog2" timestamp="1604738515409">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="307" y="23" width="825" height="825" key="CommitChangelistDialog2/0.0.1440.900@0.0.1440.900" timestamp="1604738515409" />
+    <state x="494" y="324" key="Github.CreatePullRequestDialog" timestamp="1604695111966">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="494" y="324" key="Github.CreatePullRequestDialog/0.0.1440.900@0.0.1440.900" timestamp="1604695111966" />
+    <state x="584" y="354" key="Github.ShareDialog" timestamp="1604695141774">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="584" y="354" key="Github.ShareDialog/0.0.1440.900@0.0.1440.900" timestamp="1604695141774" />
+    <state x="320" y="190" key="Vcs.Push.Dialog.v2" timestamp="1604738560764">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="320" y="190" key="Vcs.Push.Dialog.v2/0.0.1440.900@0.0.1440.900" timestamp="1604738560764" />
     <state x="385" y="196" width="670" height="676" key="search.everywhere.popup" timestamp="1604690019346">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
