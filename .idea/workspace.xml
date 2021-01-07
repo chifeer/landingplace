@@ -25,8 +25,23 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e4bbdea1-02e1-4e83-b1da-806b9f6e17b0" name="Default Changelist" comment="Правки в соответствии с зомечаниями Жени">
+    <list default="true" id="e4bbdea1-02e1-4e83-b1da-806b9f6e17b0" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/assets/img/animation.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/logo_1.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/logo_2.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/logo_3.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/portfolio/Comp_1.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/portfolio/cryotonus.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/svg/favicon ver 1.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/svg/favicon ver 2.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/svg/logo.svg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/apple-touch-icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog-single.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/forms/Readme.txt" beforeDir="false" afterPath="$PROJECT_DIR$/forms/Readme.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/portfolio-details.html" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio-details.html" afterDir="false" />
     </list>
@@ -58,14 +73,20 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/assets/img/clients" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/assets/svg" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/assets/img" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/assets/svg" />
+      <recent name="$PROJECT_DIR$/assets/img" />
+      <recent name="$PROJECT_DIR$/assets/img/portfolio" />
       <recent name="C:\Users\Gamer\WebstormProjects\landingplace\assets\img\clients" />
       <recent name="$PROJECT_DIR$" />
     </key>
@@ -85,18 +106,19 @@
       <workItem from="1605206246023" duration="599000" />
       <workItem from="1606576922029" duration="4053000" />
       <workItem from="1606764656667" duration="30000" />
-      <workItem from="1607025103169" duration="1498000" />
-      <workItem from="1607364190184" duration="26000" />
-      <workItem from="1608749309403" duration="1357000" />
+      <workItem from="1609872372133" duration="902000" />
+      <workItem from="1609874431022" duration="570000" />
+      <workItem from="1609876356011" duration="1379000" />
+      <workItem from="1609878269530" duration="1617000" />
+      <workItem from="1609880133041" duration="1127000" />
+      <workItem from="1610033925917" duration="1665000" />
+      <workItem from="1610035761761" duration="1456000" />
+      <workItem from="1610037575743" duration="1732000" />
+      <workItem from="1610039391742" duration="1729000" />
+      <workItem from="1610047613991" duration="83000" />
+      <workItem from="1610047701952" duration="1497000" />
+      <workItem from="1610049443489" duration="1044000" />
     </task>
-    <task id="LOCAL-00001" summary="Правки в соответствии с зомечаниями Жени">
-      <created>1607025306805</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1607025306805</updated>
-    </task>
-    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -114,34 +136,20 @@
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
-  <component name="VcsManagerConfiguration">
-    <MESSAGE value="Правки в соответствии с зомечаниями Жени" />
-    <option name="LAST_COMMIT_MESSAGE" value="Правки в соответствии с зомечаниями Жени" />
-  </component>
   <component name="WindowStateProjectService">
-    <state x="690" y="266" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1606579255684">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state x="518" y="234" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1609880661728">
+      <screen x="0" y="23" width="1440" height="825" />
     </state>
     <state x="690" y="266" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1606579255684" />
+    <state x="518" y="234" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.23.1440.825@0.23.1440.825" timestamp="1609880661728" />
     <state x="584" y="354" key="Github.ShareDialog" timestamp="1604694623881">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="584" y="354" key="Github.ShareDialog/0.0.1440.900@0.0.1440.900" timestamp="1604694623881" />
-    <state x="184" y="85" key="MergeDialog" timestamp="1607025621162">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="184" y="85" key="MergeDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1607025621162" />
-    <state x="598" y="280" key="MultipleFileMergeDialog" timestamp="1607025621167">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="598" y="280" key="MultipleFileMergeDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1607025621167" />
-    <state x="552" y="252" key="Vcs.Push.Dialog.v2" timestamp="1607025928109">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="552" y="252" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1607025928109" />
-    <state x="385" y="196" width="670" height="676" key="search.everywhere.popup" timestamp="1604690019346">
-      <screen x="0" y="0" width="1440" height="900" />
+    <state x="385" y="203" width="670" height="620" key="search.everywhere.popup" timestamp="1610037244249">
+      <screen x="0" y="23" width="1440" height="825" />
     </state>
     <state x="385" y="196" width="670" height="676" key="search.everywhere.popup/0.0.1440.900@0.0.1440.900" timestamp="1604690019346" />
+    <state x="385" y="203" width="670" height="620" key="search.everywhere.popup/0.23.1440.825@0.23.1440.825" timestamp="1610037244249" />
   </component>
 </project>
