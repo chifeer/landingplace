@@ -375,6 +375,17 @@ h1, h2, h3, h4, h5, h6 {
   width: auto;
   height: auto;
 }
+.hero_a:after{
+  content: "";
+  background: #1b1b1b;
+  position: absolute;
+  bottom: 60px;
+  top: 60px;
+  left: 0;
+  right: 0;
+  transform: skewY(-3deg);
+
+}
 #hero:before {
   content: "";
   background: rgba(0, 0, 0, 0.6);
@@ -408,7 +419,7 @@ h1, h2, h3, h4, h5, h6 {
   padding: 10px 30px;
   border-radius: 4px;
   transition: 0.5s;
-  margin-top: 30px;
+  margin-top: 50px;
   color: #fff;
   background: #e03a3c;
   border: 2px solid #e03a3c;

@@ -26,24 +26,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e4bbdea1-02e1-4e83-b1da-806b9f6e17b0" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/assets/img/animation.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/logo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/logo_1.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/logo_2.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/logo_3.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/portfolio/Comp_1.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/portfolio/cryotonus.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/svg/favicon ver 1.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/svg/favicon ver 2.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/svg/logo.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/svg/favicon new.svg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/assets/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/apple-touch-icon.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog-single.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/forms/Readme.txt" beforeDir="false" afterPath="$PROJECT_DIR$/forms/Readme.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio-details.html" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio-details.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -80,15 +66,15 @@
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/assets/img" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/assets/svg" />
       <recent name="$PROJECT_DIR$/assets/img" />
       <recent name="$PROJECT_DIR$/assets/img/portfolio" />
       <recent name="C:\Users\Gamer\WebstormProjects\landingplace\assets\img\clients" />
       <recent name="$PROJECT_DIR$" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/assets/img" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -118,7 +104,20 @@
       <workItem from="1610047613991" duration="83000" />
       <workItem from="1610047701952" duration="1497000" />
       <workItem from="1610049443489" duration="1044000" />
+      <workItem from="1610052318311" duration="2346000" />
+      <workItem from="1610097806364" duration="776000" />
+      <workItem from="1610138974088" duration="1425000" />
+      <workItem from="1610140843003" duration="904000" />
+      <workItem from="1610142698997" duration="983000" />
     </task>
+    <task id="LOCAL-00001" summary="поправил hero добавил logo">
+      <created>1610052366955</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1610052366955</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -136,16 +135,28 @@
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="поправил hero добавил logo" />
+    <option name="LAST_COMMIT_MESSAGE" value="поправил hero добавил logo" />
+  </component>
   <component name="WindowStateProjectService">
     <state x="518" y="234" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1609880661728">
       <screen x="0" y="23" width="1440" height="825" />
     </state>
     <state x="690" y="266" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1606579255684" />
     <state x="518" y="234" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.23.1440.825@0.23.1440.825" timestamp="1609880661728" />
+    <state x="307" y="23" key="CommitChangelistDialog2" timestamp="1610052366409">
+      <screen x="0" y="23" width="1440" height="825" />
+    </state>
+    <state x="307" y="23" key="CommitChangelistDialog2/0.23.1440.825@0.23.1440.825" timestamp="1610052366409" />
     <state x="584" y="354" key="Github.ShareDialog" timestamp="1604694623881">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="584" y="354" key="Github.ShareDialog/0.0.1440.900@0.0.1440.900" timestamp="1604694623881" />
+    <state x="320" y="175" key="Vcs.Push.Dialog.v2" timestamp="1610052375086">
+      <screen x="0" y="23" width="1440" height="825" />
+    </state>
+    <state x="320" y="175" key="Vcs.Push.Dialog.v2/0.23.1440.825@0.23.1440.825" timestamp="1610052375086" />
     <state x="385" y="203" width="670" height="620" key="search.everywhere.popup" timestamp="1610037244249">
       <screen x="0" y="23" width="1440" height="825" />
     </state>
