@@ -26,7 +26,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e4bbdea1-02e1-4e83-b1da-806b9f6e17b0" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/assets/svg/favicon new.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/js/bot.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/assets/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/style.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
@@ -109,6 +109,13 @@
       <workItem from="1610138974088" duration="1425000" />
       <workItem from="1610140843003" duration="904000" />
       <workItem from="1610142698997" duration="983000" />
+      <workItem from="1610206883725" duration="552000" />
+      <workItem from="1610307447743" duration="282000" />
+      <workItem from="1610391852836" duration="1658000" />
+      <workItem from="1610393674304" duration="1712000" />
+      <workItem from="1610395571639" duration="1678000" />
+      <workItem from="1610397385844" duration="1702000" />
+      <workItem from="1610399358424" duration="2274000" />
     </task>
     <task id="LOCAL-00001" summary="поправил hero добавил logo">
       <created>1610052366955</created>
@@ -117,7 +124,14 @@
       <option name="project" value="LOCAL" />
       <updated>1610052366955</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="изменил шрифт добавил изменения в css">
+      <created>1610207062014</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1610207062014</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -137,7 +151,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="поправил hero добавил logo" />
-    <option name="LAST_COMMIT_MESSAGE" value="поправил hero добавил logo" />
+    <MESSAGE value="изменил шрифт добавил изменения в css" />
+    <option name="LAST_COMMIT_MESSAGE" value="изменил шрифт добавил изменения в css" />
   </component>
   <component name="WindowStateProjectService">
     <state x="518" y="234" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1609880661728">
@@ -145,18 +160,18 @@
     </state>
     <state x="690" y="266" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1606579255684" />
     <state x="518" y="234" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.23.1440.825@0.23.1440.825" timestamp="1609880661728" />
-    <state x="307" y="23" key="CommitChangelistDialog2" timestamp="1610052366409">
+    <state x="307" y="23" key="CommitChangelistDialog2" timestamp="1610207061643">
       <screen x="0" y="23" width="1440" height="825" />
     </state>
-    <state x="307" y="23" key="CommitChangelistDialog2/0.23.1440.825@0.23.1440.825" timestamp="1610052366409" />
+    <state x="307" y="23" key="CommitChangelistDialog2/0.23.1440.825@0.23.1440.825" timestamp="1610207061643" />
     <state x="584" y="354" key="Github.ShareDialog" timestamp="1604694623881">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="584" y="354" key="Github.ShareDialog/0.0.1440.900@0.0.1440.900" timestamp="1604694623881" />
-    <state x="320" y="175" key="Vcs.Push.Dialog.v2" timestamp="1610052375086">
+    <state x="320" y="175" key="Vcs.Push.Dialog.v2" timestamp="1610207069325">
       <screen x="0" y="23" width="1440" height="825" />
     </state>
-    <state x="320" y="175" key="Vcs.Push.Dialog.v2/0.23.1440.825@0.23.1440.825" timestamp="1610052375086" />
+    <state x="320" y="175" key="Vcs.Push.Dialog.v2/0.23.1440.825@0.23.1440.825" timestamp="1610207069325" />
     <state x="385" y="203" width="670" height="620" key="search.everywhere.popup" timestamp="1610037244249">
       <screen x="0" y="23" width="1440" height="825" />
     </state>
