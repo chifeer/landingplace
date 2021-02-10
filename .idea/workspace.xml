@@ -25,11 +25,8 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e4bbdea1-02e1-4e83-b1da-806b9f6e17b0" name="Default Changelist" comment="">
+    <list default="true" id="e4bbdea1-02e1-4e83-b1da-806b9f6e17b0" name="Default Changelist" comment="Сделал бота телеграм.">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/js/bot.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/js/bot.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/vendor/php-email-form/validate.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/vendor/php-email-form/validate.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -126,7 +123,11 @@
       <workItem from="1610397385844" duration="1702000" />
       <workItem from="1610399358424" duration="2274000" />
       <workItem from="1610869771173" duration="3305000" />
-      <workItem from="1611079117803" duration="6900000" />
+      <workItem from="1611079117803" duration="7546000" />
+      <workItem from="1612269321749" duration="11000" />
+      <workItem from="1612621253732" duration="5825000" />
+      <workItem from="1612715077408" duration="180000" />
+      <workItem from="1612812049382" duration="32000" />
     </task>
     <task id="LOCAL-00001" summary="поправил hero добавил logo">
       <created>1610052366955</created>
@@ -142,7 +143,14 @@
       <option name="project" value="LOCAL" />
       <updated>1610207062014</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Сделал бота телеграм.">
+      <created>1611086351472</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1611086351472</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -163,6 +171,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="поправил hero добавил logo" />
     <MESSAGE value="изменил шрифт добавил изменения в css" />
-    <option name="LAST_COMMIT_MESSAGE" value="изменил шрифт добавил изменения в css" />
+    <MESSAGE value="Сделал бота телеграм." />
+    <option name="LAST_COMMIT_MESSAGE" value="Сделал бота телеграм." />
   </component>
 </project>
